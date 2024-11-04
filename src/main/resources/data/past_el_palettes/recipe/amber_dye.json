@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glow_berries"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:amber_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}

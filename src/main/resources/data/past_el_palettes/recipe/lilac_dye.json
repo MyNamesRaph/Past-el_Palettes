@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "past_el_palettes:violet_dye"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:lilac_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}

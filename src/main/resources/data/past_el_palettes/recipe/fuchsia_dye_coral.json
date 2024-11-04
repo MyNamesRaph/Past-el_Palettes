@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bubble_coral"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:fuchsia_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}

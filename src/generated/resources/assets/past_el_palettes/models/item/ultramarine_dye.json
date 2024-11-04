@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "past_el_palettes:item/ultramarine_dye"
+  }
+}

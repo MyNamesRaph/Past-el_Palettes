@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "past_el_palettes:aqua_dye"
+        },
+        {
+            "item": "past_el_palettes:emerald_dye"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:spring_green_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}

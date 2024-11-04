@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:horn_coral_fan"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:canary_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:chorus_fruit"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:violet_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}

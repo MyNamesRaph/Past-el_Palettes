@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:crimson_roots"
+        }
+    ],
+    "result": {
+        "id": "past_el_palettes:crimson_dye",
+        "count": 2
+    },
+    "group": "past_el_dyes"
+}
