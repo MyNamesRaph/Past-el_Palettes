@@ -1,6 +1,6 @@
 package com.mynamesraph.pastelpalettes.data.datagen
 
-import com.mynamesraph.mystcraft.data.datagen.block.PastelPalettesBlockStateProvider
+import com.mynamesraph.pastelpalettes.data.datagen.block.PastelPalettesBlockStateProvider
 import com.mynamesraph.pastelpalettes.PastelPalettes
 import com.mynamesraph.pastelpalettes.data.datagen.block.PastelPalettesBlockTagProvider
 import com.mynamesraph.pastelpalettes.data.datagen.item.PastelPalettesItemModelProvider

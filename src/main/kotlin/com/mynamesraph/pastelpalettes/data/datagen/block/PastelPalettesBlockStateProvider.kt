@@ -1,4 +1,4 @@
-package com.mynamesraph.mystcraft.data.datagen.block
+package com.mynamesraph.pastelpalettes.data.datagen.block
 
 import com.mynamesraph.pastelpalettes.PastelPalettes
 import net.minecraft.data.PackOutput
