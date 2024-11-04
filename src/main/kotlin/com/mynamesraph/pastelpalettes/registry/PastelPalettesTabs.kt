@@ -1,13 +1,11 @@
 package com.mynamesraph.pastelpalettes.registry
 
 import com.mynamesraph.pastelpalettes.PastelPalettes
-import net.minecraft.core.component.PatchedDataComponentMap
 import net.minecraft.core.registries.Registries
 import net.minecraft.network.chat.Component
 import net.minecraft.world.item.CreativeModeTab
 import net.minecraft.world.item.CreativeModeTab.ItemDisplayParameters
 import net.minecraft.world.item.CreativeModeTabs
-import net.minecraft.world.item.Items
 import net.neoforged.bus.api.IEventBus
 import net.neoforged.neoforge.registries.DeferredHolder
 import net.neoforged.neoforge.registries.DeferredRegister

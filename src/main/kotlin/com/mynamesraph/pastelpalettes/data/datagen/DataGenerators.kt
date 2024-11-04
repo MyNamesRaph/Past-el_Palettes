@@ -1,17 +1,13 @@
 package com.mynamesraph.pastelpalettes.data.datagen
 
-import com.mynamesraph.pastelpalettes.data.datagen.block.PastelPalettesBlockLootTableProvider
 import com.mynamesraph.mystcraft.data.datagen.block.PastelPalettesBlockStateProvider
-import com.mynamesraph.pastelpalettes.data.datagen.block.PastelPalettesBlockTagProvider
 import com.mynamesraph.pastelpalettes.PastelPalettes
+import com.mynamesraph.pastelpalettes.data.datagen.block.PastelPalettesBlockTagProvider
 import com.mynamesraph.pastelpalettes.data.datagen.item.PastelPalettesItemModelProvider
 import com.mynamesraph.pastelpalettes.data.datagen.item.PastelPalettesItemTagProvider
-import net.minecraft.data.loot.LootTableProvider
-import net.minecraft.world.level.storage.loot.parameters.LootContextParamSets
 import net.neoforged.bus.api.SubscribeEvent
 import net.neoforged.fml.common.EventBusSubscriber
 import net.neoforged.neoforge.data.event.GatherDataEvent
-import java.util.*
 
 @EventBusSubscriber(modid = PastelPalettes.MOD_ID,bus= EventBusSubscriber.Bus.MOD)
 object DataGenerators {
